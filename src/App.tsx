@@ -7,7 +7,7 @@ const sampleData: ITodo[] = [
   {
     id: 1,
     content: "🏃‍♀️ 달리기",
-    isDone: false,
+    isDone: true,
   },
   {
     id: 2,
